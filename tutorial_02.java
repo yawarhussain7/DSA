@@ -12,5 +12,6 @@ class tutorial_02 {
         String name = "Yawar Hussian";
         int age = 21;
         float weight = 57.3;
+        double height = 5.6;
     }
 }
