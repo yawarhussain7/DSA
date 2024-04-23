@@ -10,5 +10,6 @@ class tutorial_02 {
 
         //Variable 
         String name = "Yawar Hussian";
+        int age = 21;
     }
 }
