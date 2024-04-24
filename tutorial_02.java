@@ -23,8 +23,12 @@ class tutorial_02 {
         System.out.print("Enter you age :> ");
         age = input.nextInt();
 
+        String name_01;
+        System.out.print("Enter your name :> ");
+        name_01 = input.next();
+
         System.out.println("Your age is :> "+age);
-        
+        System.out.println("Your name is :> "+name_01);
 
     }
 }
