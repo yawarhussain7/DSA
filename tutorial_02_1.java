@@ -18,5 +18,11 @@ public class tutorial_02_1 {
         height = input.nextFloat();
         System.out.println("Enter your weight :> ");
         weight = input.nextFloat();
+
+
+        //output
+        System.out.print("Name : "+name+"\nAge : "+age+"\nHeight : "+height+"\nWeight : "+weight);
     }
+
+
 }
