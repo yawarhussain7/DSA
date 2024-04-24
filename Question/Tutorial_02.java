@@ -5,5 +5,8 @@ import java.util.Scanner;
 public class Tutorial_02 {
     public static void main(String args[]){
         Scanner input =new Scanner(System.in);
+
+        int num1,num2,sum=0;
+        
     }
 }
