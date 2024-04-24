@@ -10,6 +10,13 @@ public class tutorial_02_1 {
         double weight;
         char fav_letter;
 
-    
+        System.out.println("Enter your name :> ");
+        name = input.nextLine();
+        System.out.println("Enter your age :> ");
+        age = input.nextInt();
+        System.out.println("Enter your height :> ");
+        height = input.nextFloat();
+        System.out.println("Enter your weight :> ");
+        weight = input.nextFloat();
     }
 }
