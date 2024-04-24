@@ -17,7 +17,8 @@ class tutorial_02 {
         char favorit_letter = 'y';
 
         //input
-
+        Scanner input = new Scanner(System.in);
+        
 
         
 
