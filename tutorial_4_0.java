@@ -5,5 +5,12 @@ class tutorial_4_0{
         {
             System.out.print("Hello world\n");
         }
+
+        // print number from 1 - 10
+
+        for(int number = 1; number <= 10; number = number +1)
+        {
+            System.out.print(number+' ');
+        }
     }
 }
