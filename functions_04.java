@@ -3,6 +3,10 @@ import java.util.Scanner;
 class functions_04{
     public static int fact(int x){
 
+        if(  x == 1 || x == 0)
+        {
+            return 1;
+        }
         int fact  = 1;
         for(int i = x; i >=1; i--)
         {
